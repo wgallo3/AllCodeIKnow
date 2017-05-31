@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "main.css",
+  "sources": [
+    "main.sass",
+    "_extrapart.sass"
+  ],
+  "mappings": "AAIA,OAAO,CAAP,oCAAO;;ACJP,AAAA,EAAE,CAAC;EACC,eAAe,EAAE,SAAU,GAAG;;;ADKlC,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,KAAM,GAAG;;;AAE/B,AAAA,EAAE,CAAC;EACC,KAAK,EATO,IAAI;EAUhB,IAAI,EAXI,SAAS,EAAE,KAAK,GAWL",
+  "names": []
+}

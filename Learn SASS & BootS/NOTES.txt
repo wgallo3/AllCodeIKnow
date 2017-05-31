@@ -1,0 +1,7 @@
+NOTES: Bootstrap lays out EVERYTHING!! in grids. 
+
+Also you make your whole website just by making div classes pretty much, then it does everything for you. 
+
+And the total page is always 12 units wide, so these col-lg-6 etc kinda titles mean that when the screen is "lg" large then this column data will take up half of it (6/12) and on and on for the other sizes of screens (pc screens, tablets, phones, etc). 
+
+EASY!!

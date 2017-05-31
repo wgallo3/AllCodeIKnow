@@ -1,0 +1,15 @@
+@import url(bootstrap/css/bootstrap.min.css);
+/* line 1, /home/wook/Desktop/SASSy Boots!!/_extrapart.sass */
+h1 {
+  text-decoration: underline; }
+
+/* line 7, /home/wook/Desktop/SASSy Boots!!/main.sass */
+body {
+  background-color: green; }
+
+/* line 10, /home/wook/Desktop/SASSy Boots!!/main.sass */
+h1 {
+  color: cyan;
+  font: Helvetica, serif; }
+
+/*# sourceMappingURL=main.css.map */
